@@ -138,7 +138,7 @@ button:hover{
     display: flex;
     justify-content: space-around;
     align-items: center;
-    
+    padding: 30px;
 }
 
 .img-content img {
