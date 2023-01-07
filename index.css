@@ -219,7 +219,7 @@ button:hover{
 /* ======================footer================= */
 .footer-container {
     background-image: linear-gradient(to top left, rgb(67, 108, 7), rgb(126, 175, 51));
-    margin-top: 20px;
+    margin-top:20px;
     text-align: center;
     font-family: sans-serif;
 }
@@ -239,7 +239,7 @@ button:hover{
 }
 
 .social-content {
-    margin-top: 20px;
+    margin-top: 25px;
     display: flex;
     justify-content: center;
     align-items: center;
