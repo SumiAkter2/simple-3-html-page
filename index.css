@@ -116,7 +116,7 @@ button:hover{
 /* =================page 2=================== */
 /* ============content===================== */
 .content {
-   
+   margin:0 auto;
     padding: 30px;
     
    
@@ -142,9 +142,10 @@ button:hover{
 }
 
 .img-content img {
+
     width: 600px;
     height: 400px;
-    margin-bottom: 40px;
+    margin: 40px auto;
 }
 @media screen and (max-width:560px) {
     .img-content img {
