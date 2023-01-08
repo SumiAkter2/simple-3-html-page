@@ -59,18 +59,7 @@ button:hover{
 }
 /* =============banner============== */
 /* ============= body content ========================= */
-.body-container {
- width: 90%;
-    text-align: start; 
-    margin: 0 auto;
-    
 
-}
-.right-content{
-    width: 80%;
-    padding: 30px;
-    margin: 0 auto;
-}
 .body-container h1 {
     color: rgb(17, 247, 17);
     font-weight: 600;
@@ -80,23 +69,27 @@ button:hover{
 }
 
 .body-container p {
-
     line-height: 1.5;
     font-family:  'Calibri', sans-serif;
 }
 
+.homePage-content{
+  width: 90%;
+  padding: 20px;
+  margin: 0 auto;
+}
 /* ================ banner img ============================== */
-.left-content img {
-    width: 90%;
-    height: 100%;
-    padding-left: 20px;
-   margin: 0 auto;
+
+.homePage-img {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.homePage-img img{
+    width: 80%;
     
 }
 
-.right-content {
-    padding: 40px;
-}
 
 @media screen and (max-width:560px) {
     .nav-logo h1 {
