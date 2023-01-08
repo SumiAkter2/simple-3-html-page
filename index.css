@@ -125,7 +125,7 @@ button:hover{
 
 }
 .page2-text-content{
-    width: 90%;
+    width: 80%;
     margin:0 auto;
 }
 .content h1 {
@@ -145,9 +145,10 @@ button:hover{
     display: flex;
     justify-content: space-around;
     align-items: center;
-    margin:0 40px;
-    padding: 50px;
+    margin:0 auto;
+    padding: 40px;
     gap:10px;
+    width: 90%;
 }
 
 .img-content img {
