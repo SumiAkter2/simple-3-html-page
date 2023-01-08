@@ -60,12 +60,17 @@ button:hover{
 /* =============banner============== */
 /* ============= body content ========================= */
 .body-container {
-  
+ width: 90%;
     text-align: start; 
-    margin: 0 20px;
+    margin: 0 auto;
+    
 
 }
-
+.right-content{
+    width: 80%;
+    padding: 30px;
+    margin: 0 auto;
+}
 .body-container h1 {
     color: rgb(17, 247, 17);
     font-weight: 600;
@@ -84,7 +89,8 @@ button:hover{
 .left-content img {
     width: 90%;
     height: 100%;
-   padding-left: 30px;
+    padding-left: 20px;
+   margin: 0 auto;
     
 }
 
@@ -120,7 +126,8 @@ button:hover{
     padding: 30px;
 }
 .page2-text-content{
-    padding-left: 50px;
+    width: 90%;
+    /* padding-left: 20px; */
     margin:0 auto;
 }
 .content h1 {
